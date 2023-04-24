@@ -8,7 +8,7 @@
 ## Installation
 ```
 wget https://github.com/RayPS/openstick-ledm/raw/main/ledm.tar.gz
-tar -xzv -C /usr/local/bin
+tar -xzvf ledm.tar.gz -C /usr/local/bin 
 rm ledm.tar.gz
 ```
 ## Usage
