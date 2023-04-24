@@ -12,6 +12,8 @@ tar -xzv -C /usr/local/bin
 rm ledm.tar.gz
 ```
 ## Usage
+`ledm --help` 
+
 ```
 Usage:
         --help  -?
