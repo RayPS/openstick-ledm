@@ -6,7 +6,10 @@
 ![screenshot](Screenshot%202023-04-24%20at%2021.31.45@2x.png)
 
 ## Installation
-
+```
+wget https://github.com/RayPS/openstick-ledm/raw/main/ledm.tar.gz
+tar -xzvf ledm.tar.gz -C /usr/local/bin/
+```
 ## Usage
 ```
 Usage:
